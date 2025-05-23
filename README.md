@@ -25,6 +25,9 @@ This is a project i did focuses on analyzing and visualizing credit card transac
 **Fraud by Merchant Type and Device Type**  
 **Distribution of Transaction Amounts**  
 
+![FRAUD DETECTION DASHBOARD]
+
+![FRAUD DETECTION DASHBOARD](https://github.com/user-attachments/assets/5eca5482-6643-49f3-be55-64095e57be2c)
 
 
 
